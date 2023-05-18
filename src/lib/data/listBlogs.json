@@ -1,0 +1,14 @@
+[
+    {
+        "title": "What is Svelte kit",
+        "description":
+            "Svelte Kit is a powerful framework for building webapplications with exceptional efficiency. It combinesthe best features of Svelte, a popular JavaScriptframework known for its lightweight and reactive approach, with a comprehensive toolkit for streamlineddevelopment",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLK-lYSsU_QU2UBVjx-dZHajBuXbP3xsmqsg&usqp=CAU",
+    },
+    {
+        "title": "For What Svelte kit exists ?",
+        "description":
+            "Svelte Kit is a powerful framework for building webapplications with exceptional efficiency. It combinesthe best features of Svelte, a popular JavaScriptframework known for its lightweight and reactive approach, with a comprehensive toolkit for streamlineddevelopment",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_ybAZmR4LhHvL_151zp997BBuRbTPOOmOA&usqp=CAU",
+    }
+]

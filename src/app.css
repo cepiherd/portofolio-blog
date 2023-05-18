@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+:root {
+    --base: #fff;
+    --primary: #ef476f;
+    --secondary: #ffd166;
+}
+
+.bg-base {
+    background: var(--base)
+}
+
+.bg-primary {
+    background: var(--primary)
+}
+
+.bg-accent {
+    background: var(--secondary)
+}
+
+body {
+    background: var(--base);
+}
